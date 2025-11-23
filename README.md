@@ -1,4 +1,5 @@
 Diet Planner Using Python
+
 A simple Python program that calculates daily calorie requirements and generates a basic meal plan based on user inputs such as age, gender, weight, height, activity level, goal, and diet preference.
 ________________________________________
  Features
