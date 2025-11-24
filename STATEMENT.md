@@ -5,7 +5,7 @@ Many people struggle to understand how many calories they need daily and what ki
 
 2. Scope of the Project
 
-This project provides a basic calorie calculation system and a simple meal suggestion model. It does not focus on medical-level accuracy but offers an easy and beginner-friendly tool for estimating daily calorie requirements and creating a simple meal plan. The project stays within the limits of Class 12 Python concepts like functions, conditionals, and input handling.
+This project provides a basic calorie calculation system and a simple meal suggestion model. It does not focus on medical-level accuracy but offers an easy and beginner-friendly tool for estimating daily calorie requirements and creating a simple meal plan. The project stays within the limits of basic Python concepts like functions, conditionals, and input handling.
 
 3. Target Users
 
