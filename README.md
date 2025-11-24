@@ -11,7 +11,7 @@ o	Bulk
 o	Maintain
 •	Provides a vegetarian or non-vegetarian meal plan
 •	Recommends daily water intake
-•	Written in simple Python (Class 12 level)
+•	Written in simple Python 
 ________________________________________
  Requirements
 •	Python 3
