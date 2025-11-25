@@ -1,8 +1,11 @@
 Diet Planner – Python Project
+
 Overview
+
 This is a simple Python-based Diet Planner that helps users calculate their daily calorie needs and suggests a basic meal plan. The program asks for details like age, gender, height, weight, activity level, and fitness goal (bulking or shredding). Based on the inputs, it calculates calories and generates a meal plan using a food database.
 
  Features
+ 
 •	Takes user inputs (age, gender, height, weight, activity level)
 •	Calculates BMR and TDEE
 •	Supports bulking and shredding goals
@@ -12,6 +15,7 @@ This is a simple Python-based Diet Planner that helps users calculate their dail
 •	Easy to use and beginner-friendly
 
  Technologies / Tools Used
+ 
 •	Python
 •	JSON (for storing food items)
 •	Python built-in modules:
@@ -19,6 +23,7 @@ This is a simple Python-based Diet Planner that helps users calculate their dail
 	-json
 
  Steps to Install & Run the Project
+ 
 1. Install Python
 Make sure Python is installed on your system.
 Download from: https://www.python.org/
@@ -31,6 +36,7 @@ Use the command:
 python diet_planner.py
 
  Instructions for Testing
+ 
 •	Try different age, gender, weight, and height values.
 •	Use all activity levels (sedentary, light, moderate, very active).
 •	Test both bulking and shredding goals.
@@ -38,9 +44,5 @@ python diet_planner.py
 •	Check whether the calorie calculation changes correctly.
 •	Verify if meal suggestions change as per veg/non-veg selection.
 
- Screenshots (Optional)
-You can insert screenshots of:
-•	Input prompts
-•	Final output meal plan
-•	JSON food database preview
+ 
 
